@@ -1,7 +1,9 @@
-title: Your awesome title
-author: GitHub User
+title: This is a blog of myself.
+author: Me, myself and I
+theme: minima
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
+  A new way of reading a cool blog!
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
